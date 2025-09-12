@@ -1,0 +1,7 @@
+echo "#team_jang" >> README.md 
+git init 
+git add README.md 
+git commit -m "첫 번째 커밋" 
+git branch -M main 
+git remote add origin git@github.com:sslee002-maker/team_jang.git
+ git push -u origin main
